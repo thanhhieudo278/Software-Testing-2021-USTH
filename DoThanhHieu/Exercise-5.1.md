@@ -1,5 +1,4 @@
-5.1 Exercise
-
+Exercise5.1
 a)- Because of the pure definition of Criterion Subsumption, T1 must satisfy C2.
 
   -Subsumption of Criterions: A test criterion C1 subsumes C2 if and only if every set of test cases that satisfy C1 also satisfy C2.
